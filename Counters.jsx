@@ -8,9 +8,6 @@ return (
 <h2>Counter: {count}</h2>
 
 <button onClick={() => setCount(count + 1)}>
-
-24
-
 Increase
 </button>
 </div>
